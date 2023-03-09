@@ -30,7 +30,7 @@
      
       <!-- reCAPTCHA -->
       <div class="g-recaptcha"
-          data-sitekey="6LelZAsTAAAAAAv1ADYDnq8AzbmPmbMvjh-xhfgB"></div>
+          data-sitekey="6LfkOOYkAAAAAIk_OSwp1hSH6DL0pfsEgNDvv6zg"></div>
 
       <input type="submit" value="Submit" />
 

@@ -1,6 +1,6 @@
 package nguyen.huuquyet.recapcha;
 
 public class MyConstants {
-	public static final String SITE_KEY ="6LdVMeMkAAAAANnm4EDrvn4JVU1TBiWfjooRU9-J";
-	public static final String SECRET_KEY ="6LdVMeMkAAAAAKpXUv76WnzU2fx6HkacL9A7X4_K";
+	public static final String SITE_KEY ="6LfkOOYkAAAAAIk_OSwp1hSH6DL0pfsEgNDvv6zg";
+	public static final String SECRET_KEY ="6LfkOOYkAAAAALaKh02on4H0m9hW-UIhzLbnfssC";
 }
